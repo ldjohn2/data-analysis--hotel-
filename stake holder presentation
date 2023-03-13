@@ -1,6 +1,6 @@
 Stakeholder Analysis Questions
 1) Is our hotel revenue growing by the year? 
-According to the data report I created between the first years there has been a significant increase in revenue, ranging from 1,227,139.75 to 4,699,575.28.
+According to the data report I created between the first and second  year there has been a significant increase in revenue, ranging from 1,227,139.75 to 4,699,575.28.
 In the third year there was a 286 percent increase from the first year. Leading with a average reveneue of 3,146,310.
 
 2) Should we increase our parking lot size ? 
@@ -8,9 +8,12 @@ According to the data I decided to analyze this by taking the required parking l
 a average of 2.27 parking percentage, I dont recommned a increase in parking lot size in nessary at this point in time. 
 
 What trends can we see in the data ?
-From the dataset I can describe serveral trends. City hotel brings in more customers as well, as 17% more revuenue then the resort hotel. Most of your customers come to hotels
+From the dataset I can describe serveral trends. City hotel brings in more customers as well, as 17% more revenue then the resort hotel. Most of your customers come to hotels
 that are located in europe, with the secondest largest revenue coming from united states of america. A third trend I see in the data is more customers start to come towards the 
 end of the year vs beginnging of the year, for example in 2019, between 01/01/2019 and 06/28/2019 the total reveunue was 1.07 million vs between 07/01/2019 and 12/1/31, the 
 total revenue was 1.8 million. 
+
+Who are our largest customer segments? 
+Based on the data, your largest customer segements is customers who live or vist portgual, with a total of 865k worth of reveunue. 
 
  
